@@ -1,0 +1,1 @@
+`blacki-logo.png` is the supplied BLACKi Creative logo, tightly cropped and background-keyed to transparency from the original `BLACKi Creative Logo.png` in the project root. The source logo and all supplied page references remain unmodified. The page components use this image asset directly.
